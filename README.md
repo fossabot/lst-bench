@@ -16,9 +16,13 @@ limitations under the License.
 {% endcomment %}
 -->
 
+
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Ffpj%2Flst-bench.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Ffpj%2Flst-bench?ref=badge_large)
+
 # LST-Bench
 
 [![CI Status](https://github.com/microsoft/lst-bench/workflows/Java%20CI/badge.svg?branch=main)](https://github.com/microsoft/lst-bench/actions?query=branch%3Amain)
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Ffpj%2Flst-bench.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Ffpj%2Flst-bench?ref=badge_shield)
 
 LST-Bench is a framework that allows users to run benchmarks specifically designed for evaluating the performance, efficiency, and stability of Log-Structured Tables (LSTs), also commonly referred to as table formats, such as [Delta Lake](https://delta.io/), [Apache Hudi](http://hudi.apache.org), and [Apache Iceberg](http://iceberg.apache.org).
 
